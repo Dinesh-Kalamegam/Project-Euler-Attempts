@@ -17,7 +17,7 @@ for i in range (1000):
     if (i%5 ==0):
         tot+=i
 
-    #Multiples of 15 coounted twice rectiy with this
+    #Multiples of 15 counted twice rectify with this
     if (i%15==0):
         tot-=i
             
